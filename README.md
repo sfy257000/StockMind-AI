@@ -45,6 +45,7 @@
 - **Python 版本**：3.11
 
 ### 快速開始
+> git clone https://github.com/sfy257000/StockMind-AI
 1. **安裝依賴**：
    第一次執行時，請先執行 run.bat 安裝所需套件。
    > run.bat
